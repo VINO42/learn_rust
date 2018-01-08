@@ -1,0 +1,7 @@
+[package]
+name = "run_my_lib"
+version = "0.1.0"
+authors = ["yberdna <38912428@qq.com>"]
+
+[dependencies]
+myutil={path="../myutil"}

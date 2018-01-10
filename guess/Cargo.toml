@@ -1,6 +1,0 @@
-[package]
-name = "guess"
-version = "0.1.0"
-authors = ["andreby9527 <38912428@qq.com>"]
-
-[dependencies]

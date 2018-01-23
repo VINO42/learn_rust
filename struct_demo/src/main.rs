@@ -58,3 +58,8 @@ impl Rctangle {
         self.length > other.length && self.width > other.width
     }
 }
+//元组结构体
+struct Color(i32, i32, i32);
+//没有任何字段的类单元结构体
+struct tree();
+//

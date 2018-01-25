@@ -33,3 +33,12 @@ control_flow/control_flow.iml
 
 /target/
 **/*.rs.bk
+rust_hashmap/.idea
+rust_hashmap/target
+rust_panic/target
+rust_panic/.idea
+rust_panic_1/.idea 
+rust_panic_1/target 
+rust_string/target
+rust_string/.idea
+*.iml

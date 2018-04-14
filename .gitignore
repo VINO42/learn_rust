@@ -42,3 +42,8 @@ rust_panic_1/target
 rust_string/target
 rust_string/.idea
 *.iml
+rust_generic/target
+rust_if_let/target/**
+rust_generic/.idea/**
+rust_panic_1/CMakeLists.txt
+rust_if_let/CMakeLists.txt

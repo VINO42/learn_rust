@@ -1,0 +1,6 @@
+[package]
+name = "rust_trait"
+version = "0.1.0"
+authors = ["Andreby42 <38912428@qq.com>"]
+
+[dependencies]

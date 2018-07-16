@@ -47,3 +47,4 @@ rust_if_let/target/**
 rust_generic/.idea/**
 rust_panic_1/CMakeLists.txt
 rust_if_let/CMakeLists.txt
+communicator/target/*

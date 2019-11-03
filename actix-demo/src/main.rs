@@ -31,7 +31,7 @@ fn main() -> std::io::Result<()> {
             writeln!(
                 buf,
                 "{} {} [{}] {}",
-                Local::now().format("%Y-%m-%d %H:%M:%S"),
+                Local::now().format("%Y-%m-%d %H:%M:%S.%f"),
                 record.level(),
                 record.module_path().unwrap_or("<unnamed>"),
                 &record.args()
@@ -40,11 +40,13 @@ fn main() -> std::io::Result<()> {
         .init();
     info!("env_logger initialized.");
 
-
     HttpServer::new({
         || App::new().service(
             web::resource("/{id}/{name}/index.html")
                 .to(index)).service(index2).route("/r", web::get().to(index3))
     }).bind("127.0.0.1:9999")?.run()
+
+
+
 }
 

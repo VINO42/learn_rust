@@ -1,0 +1,9 @@
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/listenfd-c53f1c7890bafed5.rmeta: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/unix.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/manager.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/liblistenfd-c53f1c7890bafed5.rlib: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/unix.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/manager.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/listenfd-c53f1c7890bafed5.d: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/unix.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/manager.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/lib.rs:
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/unix.rs:
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/listenfd-0.3.3/src/manager.rs:

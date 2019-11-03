@@ -1,0 +1,9 @@
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/semver-9ae67423f8690f21.rmeta: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version_req.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/libsemver-9ae67423f8690f21.rlib: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version_req.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/target/debug/deps/semver-9ae67423f8690f21.d: /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/lib.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version.rs /run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version_req.rs
+
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/lib.rs:
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version.rs:
+/run/media/andreby/Docs/GithubCodes/learn_rust/actix-demo/~/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-0.9.0/src/version_req.rs:

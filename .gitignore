@@ -50,3 +50,4 @@ rust_if_let/CMakeLists.txt
 communicator/target/*
 rust-practice-variables/target/
 rust-practive-numbers/target/
+rust-practive-char-bool-unit/target/

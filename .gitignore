@@ -48,3 +48,4 @@ rust_generic/.idea/**
 rust_panic_1/CMakeLists.txt
 rust_if_let/CMakeLists.txt
 communicator/target/*
+rust-practice-variables/target/
